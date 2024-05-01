@@ -5,7 +5,7 @@ function est_AMP = AMP(y,Cx,Cy,E,M,Ka,prior,compute_prior,nAMPiter,damping,updat
 % Function to run the AMP decoder described in Section III-A of 
 %
 %   [1] K.-H. Ngo, D. P. Krishnan, K. Okumus, G. Durisi, and E. G. Strom, 
-%   "Type-based unsourced multiple access," April 2024. 
+%   "Type-based unsourced multiple access," arXiv preprint arXiv:2404.19552, Apr. 2024.
 %
 % written by Khac-Hoang Ngo, email: ngok@chalmers.se
 
