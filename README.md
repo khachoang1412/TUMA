@@ -2,7 +2,7 @@
 
 This repository contains the Matlab numerical routines of the paper:
 
-[1] K.-H. Ngo, D. P. Krishnan, K. Okumus, G. Durisi, and E. G. Strom, "Type-based unsourced multiple access," April 2024. 
+[1] K.-H. Ngo, D. P. Krishnan, K. Okumus, G. Durisi, and E. G. Strom, "Type-based unsourced multiple access," arXiv preprint arXiv:2404.19552, Apr. 2024. 
 
 Please cite the aforementioned papers if you use this code.
 
