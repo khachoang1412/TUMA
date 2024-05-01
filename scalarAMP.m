@@ -7,7 +7,7 @@ function est_scalarAMP = scalarAMP(y,C2,Cx,Cy,E,M,Ka,prior, ...
 % Function to run the scalar decoder described in Section III-C of 
 %
 %   [1] K.-H. Ngo, D. P. Krishnan, K. Okumus, G. Durisi, and E. G. Strom, 
-%   "Type-based unsourced multiple access," April 2024. 
+%   "Type-based unsourced multiple access," arXiv preprint arXiv:2404.19552, Apr. 2024.
 %
 % written by Khac-Hoang Ngo, email: ngok@chalmers.se
 
