@@ -6,7 +6,7 @@ function est_EP = EP(y,C,Cx,Cy,E,M,Ka,prior,compute_prior,nIter,damping,update_p
 % Function to run the EP decoder described in Section III-B of 
 %
 %   [1] K.-H. Ngo, D. P. Krishnan, K. Okumus, G. Durisi, and E. G. Strom, 
-%   "Type-based unsourced multiple access," April 2024. 
+%   "Type-based unsourced multiple access," arXiv preprint arXiv:2404.19552, Apr. 2024.
 %
 % written by Khac-Hoang Ngo, email: ngok@chalmers.se
 
