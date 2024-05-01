@@ -8,7 +8,7 @@ function data = TUMA_GMAC(N,Ka,B_list,Ma_list,SNRdB_list,area_size,codebook_type
 % scenario via type-based unsourced multiple access (TUMA) considered in:
 %
 %   [1] K.-H. Ngo, D. P. Krishnan, K. Okumus, G. Durisi, and E. G. Strom, 
-%   "Type-based unsourced multiple access," April 2024. 
+%   "Type-based unsourced multiple access," arXiv preprint arXiv:2404.19552, Apr. 2024.
 %
 % We consider a scenario where Ka sensors track the position of Ma targets 
 % placed uniformly at random in a square area S. The area is divided into a 
